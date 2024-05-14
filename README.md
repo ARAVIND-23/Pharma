@@ -437,6 +437,8 @@ contact.html
 ```
 ## OUTPUT:
 ![image](https://github.com/ARAVIND-23/Pharma/assets/138970182/02f60406-412a-4658-a9d2-ab33ba410fc6)
+![Screenshot 2024-05-14 165711](https://github.com/ARAVIND-23/Pharma/assets/138970182/047ced69-2ce5-4465-bcac-14dd3ae77066)
+![Screenshot 2024-05-14 165822](https://github.com/ARAVIND-23/Pharma/assets/138970182/fce58d50-2436-42dd-b815-cfea0e9fa4eb)
 
 
 ## RESULT:
